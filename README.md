@@ -27,6 +27,8 @@ The median for order amount is the value I would report for this dataset.
 
 Its value is $284.0
 
+View code here : https://github.com/ashwathcr7/Intern-Challenge/blob/main/Intern.py
+
 
 
 Question 2:
@@ -40,3 +42,5 @@ Peacock with 40 orders.
 
 C. What product was ordered the most by customers in Germany?
 Boston Crab Meat was ordered the most in Germany with a total order quantity of 160.
+
+View code here : https://github.com/ashwathcr7/Intern-Challenge/blob/main/Data%20Intern%20Challenge.sql
